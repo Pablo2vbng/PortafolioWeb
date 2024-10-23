@@ -111,7 +111,10 @@ html{
  .init .banner .nets a:hover{
     background-color: lightblue;
  }
+
  
+/*SECCIÓN ABOUT ME*/
+
  .about-me{
     background-color: rgba(30,35,38,.8);
     color:white ;
@@ -425,6 +428,8 @@ html{
     right: -47px;
     z-index: 5;
 }
+
+
 .curriculum .fila .item .conectori .circuloi{
     display: block;
     height: 10px;
@@ -614,6 +619,8 @@ html{
     display: inline-block;
     margin-right: 20px;
     text-align: center;
+
+    /*SECCION FOOTER*/
 }
 footer{
     background-color: rgba(30,35,38,.8);
